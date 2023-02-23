@@ -1,4 +1,24 @@
-## Multiverse-Inventories
+## Multiverse-Inventories-Mods
+A custom version of [Multiverse-Inventories](https://github.com/Multiverse/Multiverse-Inventories) that is compatible with mods for hybrid servers.
+<br> If you want, feel free to suggest mods for compatibility or pull request to add your features to the plugin!
+<br> Tested in: 1.18.2
+
+### Features
+Nothing for the moment, see [Planned](https://github.com/TimEtOff/Multiverse-Inventories-Mods/README.md#Planned)
+
+### Planned 
+- ForgeCaps (compound tag in player .dat file)
+- - [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt) (Tool belt and items inside it doesn't change with world swap) – *WORK IN PROGRESS*
+- - [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked) (Unlock tracker)
+- - [Flash's NPCs](https://www.curseforge.com/minecraft/mc-mods/flashs-npcs) (Quests)
+- - [HT's Treechop](https://www.curseforge.com/minecraft/mc-mods/treechop) (Settings)
+- - [YDM's Weapon Master](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master) (Stats)
+- - Compatibility with all mods that use this compound tag?
+- [Custom Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) (Custom armor doesn't change with world swap – stocked in player .cosarmor file)
+- [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked) (Backpack and items cleared at world swap eventually due to negative slot number)
+
+
+## Original license
 
 Copyright (c) 2011, The Multiverse Team All rights reserved.
 
